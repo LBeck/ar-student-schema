@@ -1,10 +1,4 @@
 
-
-
-
-!!!!!!!!!!!!!!Please NOTE: I did not complete this exercise because I ran out of time. !!!!!!!!!!!!!!!!!!!!!!!
-
-
 ActiveRecord Student Schema
 ===========================
 
